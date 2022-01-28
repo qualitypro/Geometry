@@ -4,7 +4,7 @@
 package geometry;
 
 /**
- * @author arch
+ * @author Mike Dietz
  *
  */
 public interface Shape {

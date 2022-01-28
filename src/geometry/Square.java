@@ -1,7 +1,7 @@
 package geometry;
 
 /**
- * @author arch
+ * @author Mike Dietz
  *
  */
 abstract class Square implements _2D {

@@ -4,7 +4,7 @@
 package geometry;
 
 /**
- * @author arch
+ * @author Mike Dietz
  *
  */
 abstract class Triangle implements _2D  {

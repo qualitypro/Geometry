@@ -1,8 +1,5 @@
 /**
- * 
- */
-/**
- * @author arch
+ * @author Mike Dietz
  *
  */
 module geometry {
