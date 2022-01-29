@@ -1,5 +1,5 @@
 /**
- * 
+ * Abstract Class Cube implementing the _3D interface
  */
 package geometry;
 
@@ -8,6 +8,8 @@ package geometry;
  *
  */
 abstract class Cube implements _3D {
+	
+	//encapsulate the data
 	private static double length = 0;
 	
 	

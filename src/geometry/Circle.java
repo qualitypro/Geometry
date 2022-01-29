@@ -1,5 +1,5 @@
 /**
- * 
+ * Abstract Class Circle implementing the _2D interface
  */
 package geometry;
 
@@ -8,6 +8,8 @@ package geometry;
  *
  */
 abstract class Circle implements _2D {
+	
+	//encapsulate the data
 	private static double radius = 0;
 	
 	public static double getRadius() {

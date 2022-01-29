@@ -1,5 +1,5 @@
 /**
- * 
+ * Abstract Class Sphere implementing the _3D interface
  */
 package geometry;
 
@@ -9,6 +9,7 @@ package geometry;
  */
 abstract class Sphere implements _3D {
 	
+	//encapsulate the data
 	private static double radius = 0;
 	
 	public static double getRadius() {

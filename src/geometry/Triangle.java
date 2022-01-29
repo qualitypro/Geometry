@@ -1,5 +1,5 @@
 /**
- * 
+ * Abstract Class Triangle implementing the _2D interface
  */
 package geometry;
 
@@ -8,6 +8,8 @@ package geometry;
  *
  */
 abstract class Triangle implements _2D  {
+	
+	//encapsulate the data
 	private static double base = 0;	
 	private static double height = 0;
 	public static double getHeight() {

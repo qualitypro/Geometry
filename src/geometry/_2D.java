@@ -1,5 +1,5 @@
 /**
- * 
+ * An interface for 2D shapes
  */
 package geometry;
 
@@ -8,7 +8,7 @@ package geometry;
  *
  */
 public interface _2D extends Shape {
-
-	//public int calcArea(int base, int height);
-
+	//Enforce additional constraints here otherwise leave blank
+	//Whatever signatures you create here will also need signature and @Overide in base class.
+	//IE: public double calcArea(int base, int height);
 }

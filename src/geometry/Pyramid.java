@@ -1,5 +1,5 @@
 /**
- * 
+ * Abstract Class Pyramid implementing the _3D interface
  */
 package geometry;
 
@@ -9,6 +9,7 @@ package geometry;
  */
 abstract class Pyramid implements _3D {
 	
+	//encapsulate the data
 	private static double base = 0;	
 	private static double length = 0;
 	private static double height = 0;

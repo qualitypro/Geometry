@@ -1,4 +1,5 @@
 /**
+ * A geometry package containing a Geometry class.
  * 
  */
 package geometry;
@@ -10,7 +11,7 @@ package geometry;
 public class Geometry {
 
 	/**
-	 * Create Geometry
+	 * Geometry Constructor(){}
 	 */
 	public Geometry() {
 
@@ -18,8 +19,7 @@ public class Geometry {
 	}
 	
 	/*
-	 * Example of encapsulation /
-	 * Abstraction to enforce business rules
+	 * Example of Abstraction to enforce business rules
 	 * 
 	 * */
 	public abstract class TriangleA extends Triangle{

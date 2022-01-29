@@ -1,5 +1,5 @@
 /**
- * 
+ * A Shape interface
  */
 package geometry;
 
